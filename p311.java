@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class p311b{
+public class p311{
     static int M, N, X;
     static int[][] corral;
     static int[] direccionx = {1, -1, 0, 0};
